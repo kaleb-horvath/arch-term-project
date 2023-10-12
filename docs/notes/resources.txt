@@ -1,0 +1,16 @@
+
+
+KEEP UPDATED WITH ONLINE LINKS AND NAMES OF PUBLICATIONS USED TO STUDY
+
+https://www.cs.colostate.edu/~fsieker/TestSemester/assignments/LC3CSU/doc/index.html
+https://www.cs.colostate.edu/~fsieker/misc/CtoLC3.html 
+
+
+Other:
+* Links in lc3/ folder on browser
+* Dr. Rodgers computer org course slides (address translation fundamentals
+  and other concepts)
+* Arch course slides 
+* Colorado State course slides and LC3 content
+
+
