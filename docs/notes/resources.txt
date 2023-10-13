@@ -1,9 +1,10 @@
+**Finding Compatible Implementation**
 
+It seems Colorado States various resources and reference sheets are in line with the following implementation of LC3 as they were based on the same textbook:
 
-KEEP UPDATED WITH ONLINE LINKS AND NAMES OF PUBLICATIONS USED TO STUDY
+https://github.com/chiragsakhuja/lc3tools
 
-https://www.cs.colostate.edu/~fsieker/TestSemester/assignments/LC3CSU/doc/index.html
-https://www.cs.colostate.edu/~fsieker/misc/CtoLC3.html 
+Only problem is, it seems that they have an OS loaded at runtime. Will try to override this or find another implementation. Note, Georgetown and George Washington University also have great LC3 resources if need be. Colorado State is ideal because of the robust documentation. 
 
 
 Other:
@@ -12,5 +13,4 @@ Other:
   and other concepts)
 * Arch course slides 
 * Colorado State course slides and LC3 content
-
 
